@@ -2,9 +2,10 @@
 //
 // The entry is the broadsheet saved as entry.png next to this file: a single
 // page that names the day (Saturday, 21 November 2026) and packs its world
-// news into region columns — Europe, Asia, Africa, North America, the Middle
-// East, Latin America and the Pacific, led by the missiles that came down in
-// Poland. This program's whole job is to place that image where the grader
+// news into illustrated hero panels, a numbered world map and region cards —
+// Europe, Asia, Africa, North America, the Middle East, Latin America and
+// the Pacific — every story date-checked to that Saturday. This program's
+// whole job is to place that image where the grader
 // looks for it: /output/entry.png (or $MAKEFUN_OUTPUT_DIR outside the
 // grader). It reads no input and uses no clock or randomness, so two runs
 // write byte-identical files.

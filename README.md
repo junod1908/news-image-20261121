@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261121/junod1908/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/junod1908/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-Sum up 21 November 2026's world news in one image — a one-page broadsheet, "The World in One Day": Russian missiles in Poland lead, with region columns for Europe, Asia, Africa, North America, the Middle East, Latin America and the Pacific, from the ICJ's Rohingya genocide ruling and the AI sell-off to Indonesia's fires and GTA VI's record first day. The program copies the rendered front page (`entry.png`) to the output; the image is drawn procedurally so every word is set in type.
+Sum up 21 November 2026's world news in one image — a one-page pictorial broadsheet, "The World in One Day": illustrated hero panels (COP31 running into overtime, missiles intercepted over Riyadh, BepiColombo reaching Mercury, the Hartha power plant fire), a world map with 19 numbered markers, and story cards for North and Latin America, Europe, the Middle East, Africa, Asia and the Pacific. Every story was date-audited to Saturday 21 November 2026 — the poster's DATE CHECK box says so on its face. The program copies the rendered front page (`entry.png`) to the output; the image is drawn procedurally so every word is set in type.
 
 ## Run it
 
